@@ -24,7 +24,7 @@ Skafos is the tool for deploying machine learning models to mobile apps and mana
 To integrate Skafos into your Xcode project using CocoaPods, specify it in your Podfile:
 
 ```ruby
-pod 'skafos', '~> 4.0.1'
+pod 'Skafos', '~> 4.0.1'
 ```
 
 ### Carthage
