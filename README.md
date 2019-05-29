@@ -15,7 +15,7 @@ Skafos is the tool for deploying machine learning models to mobile apps and mana
 
 ## Installation
 
-1. Sign up for Skafos account at [Skafos](https://skafos.io)
+1. Sign up for Skafos account at [Skafos](https://skafos.ai)
 2. Create a ML project using Skafos dashboard at [Quickstart](http://dashboard.metismachine.io/quickstart/project)
 3. Configure your app to use Skafos, including enable background updates via push notifications.
 
