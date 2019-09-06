@@ -12,8 +12,8 @@
   "iOS" : [
     {
       "name" : "Skafos",
-      "hash" : "cb160a16aece203be76c82c8f9267087e56ec8a04a97e002027ce7adbc8d1e1c",
-      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+      "hash" : "1873e0327d949e0bb1c832943fcaf59fca51330568c76ef2dcbed3845ef25575",
+      "swiftToolchainVersion" : "5.1 (swiftlang-1100.0.270.6 clang-1100.0.32.1)"
     }
   ]
 }
