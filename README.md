@@ -107,4 +107,4 @@ Skafos swift framework uses the Apache2 license, located in the LICENSE file.
 
 ## Questions?
 
-Contact us by email <a href="mailto:..">hello@skafos.io</a>, or by twitter @skafos.
+Contact us by visitign <a href="https://skafos.ai">skafos.ai</a>
