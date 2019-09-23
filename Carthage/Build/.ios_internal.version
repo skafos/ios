@@ -8,12 +8,12 @@
   "tvOS" : [
 
   ],
-  "commitish" : "dec73fd99baceca5f61a49f97f6ba36bd86106a9",
+  "commitish" : "e0aeb9201a4dac6a54ae3f2686fa1a8ec34dbf69",
   "iOS" : [
     {
       "name" : "Skafos",
-      "hash" : "b5e8d82cbfd375a591d83074678abaa55e6c1010928c37897b0d8dd0bf22ba9c",
-      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+      "hash" : "5f515427c4ae86670589768e68da9c56fce6901766a4ce6113f042088074e952",
+      "swiftToolchainVersion" : "5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
     }
   ]
 }
