@@ -13,11 +13,6 @@ Skafos is the tool for deploying machine learning models to mobile apps and mana
 
 ---
 
-## Note on Xcode Versions
-
-Xcode 10 is only supported through version 4.0.5.
-For Xcode 11 builds, please use version 4.1.1 or higher.
-
 ## Installation
 
 1. Sign up for Skafos account at [Skafos](https://skafos.io)
@@ -25,19 +20,19 @@ For Xcode 11 builds, please use version 4.1.1 or higher.
 3. Configure your app to use Skafos, including enable background updates via push notifications.
 
 ### CocoaPods
-[CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website.
+[CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. 
 To integrate Skafos into your Xcode project using CocoaPods, specify it in your Podfile:
 
 ```ruby
-pod 'Skafos', '~> 4.1.1'
+pod 'Skafos', '~> 4.0.2'
 ```
 
 ### Carthage
-[Carthage](https://github.com/Carthage/Carthage) is a decentralized dependency manager that builds your dependencies and provides you with binary frameworks.
+[Carthage](https://github.com/Carthage/Carthage) is a decentralized dependency manager that builds your dependencies and provides you with binary frameworks. 
 To integrate Skafos into your Xcode project using Carthage, specify it in your `Cartfile`:
 
 ```ogdl
-github "skafos/ios" "4.1.1"
+github "skafos/ios" "4.0.2"
 ```
 
 ---
